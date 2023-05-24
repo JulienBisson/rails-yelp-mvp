@@ -6,6 +6,7 @@ gem 'simple_form'
 gem "bootsnap", require: false
 gem "importmap-rails"
 gem "jbuilder"
+gem 'faker'
 gem "puma", "~> 5.0"
 gem "rails", "~> 7.0.4", ">= 7.0.4.3"
 gem "simple_form"
